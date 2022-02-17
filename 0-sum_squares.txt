@@ -1,8 +1,0 @@
-Read num1, num2
-
-Set square num1 to num1^2
-Set square num2 to num2^2
-
-Set sum of squares to (num1^2) + (num2^2) 
-
-Write sum of squares
